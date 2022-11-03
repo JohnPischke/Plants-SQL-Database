@@ -5,7 +5,7 @@ The software that I created is a simple editor for the plants.db database that I
 The purpose of this software was to become familiar with SQL Relational Databases. Another purpose of this software was to practice and learn the use of the sqlite3 library of python, as well as the creation of a simple database.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/989EZvh7XS4)
 
 # Relational Database
 
