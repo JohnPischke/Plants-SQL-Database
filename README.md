@@ -26,7 +26,10 @@ plants.db is a database that currently consists of one table that contains diffr
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Make error checking in the program 
+
+* Create diffrent display options 
+
+* Create more tables
+
+* Build more off of the plants.db
